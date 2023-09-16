@@ -12,18 +12,17 @@
 
 1. 먼저 해당 코드를 클론합니다: 
     ```
-    git clone https://github.com/your_username/your_repository.git
+    git clone https://github.com/airmang/facerecognition.git
     ```
 
 2. 필요한 라이브러리를 설치합니다:
     ```
-    pip install 
+    pip install Tello
+    pip install numpy
+    pip install cv2
     ```
 
 3. 코드를 실행합니다:
-    ```
-    python main.py
-    ```
 
 ## 주의 사항
 
